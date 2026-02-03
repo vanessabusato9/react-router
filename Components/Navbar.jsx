@@ -5,6 +5,7 @@ function Navbar() {
         <nav>
             <NavLink className="link" to="/">Homepage</NavLink>
             <NavLink className="link" to="/about">About Us</NavLink>
+            <NavLink className="link" to="/products">Products</NavLink>
         </nav>
     </div>
 }

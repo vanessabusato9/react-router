@@ -3,12 +3,8 @@ import Navbar from '../components/Navbar';
 
 function DefaultLayout() {
     return <>
-        <header>
-            <Navbar />
-        </header>
-        <main>
-            <Outlet />
-        </main>
+        <Navbar />
+        <Outlet />
     </>
 }
 

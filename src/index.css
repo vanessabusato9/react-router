@@ -3,3 +3,12 @@
   padding: 0;
   margin: 0;
 }
+
+#navbar {
+  background: #b61c1c;
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 1rem;
+}

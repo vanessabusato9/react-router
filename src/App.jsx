@@ -4,7 +4,7 @@ import Homepage from '../pages/Homepage'
 import AboutUs from "../pages/AboutUs"
 import Products from '../pages/Products'
 
-import DefaultLayout from '../layout/DefaultLayout'
+import DefaultLayout from './layout/DefaultLayout'
 
 
 

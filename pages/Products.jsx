@@ -1,6 +1,8 @@
+import ListProducts from "./ListProducts.jsx";
+
 function Products() {
     return <div>
-        <p>Products</p>
+        <ListProducts />
     </div>
 }
 

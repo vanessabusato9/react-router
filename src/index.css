@@ -63,10 +63,11 @@ a.link {
 .product-card {
   width: calc((100% - 2rem) / 3);
   padding: 1rem;
-  background: #333;
+  background: #999797;
 }
 
 .product-image {
-  font-size: 1.2rem;
-  font-weight: 600;
+  width: 100%;
+  height: 200px;
+  object-fit: contain;
 }
